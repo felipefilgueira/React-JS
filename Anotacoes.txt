@@ -1,0 +1,18 @@
+MongoDB
+    - Adicionar a variavel do ambiente o caminho:
+        C:\Program Files\MongoDB\Server\4.0\bin
+    - Criar pasta no C: data/db
+    - mongod - Iniciar MongoDB
+NodeJS
+cmder.net
+
+-https://github.com/cod3rcursos/curso-react-redux.git
+
+npm i // pasta curso-react-redux\my-money-app\backend
+npm i // pasta curso-react-redux\my-money-app\frontend
+
+npm run dev/npm rum production // pasta curso-react-redux\my-money-app\backend
+npm run dev // pasta curso-react-redux\my-money-app\frontend
+
+npm init - y  //iniciar o projeto
+npm i --save-dev webpack@1.14.0 webpack-dev-server@1.16.2
